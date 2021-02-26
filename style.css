@@ -11,7 +11,7 @@ header {
 }
 h1 {
   text-align: center;
-  font-size: 25px;
+  font-size: 40px;
   color: #aa6daa;
   font-weight: bold;
   font-family: Chelsea Market;
@@ -20,6 +20,7 @@ h1 {
   font-family: Chelsea Market;
   background: #aa6daa;
   color: #fff;
+  padding: 14px 40px;
 }
 ul {
   margin: 0;
