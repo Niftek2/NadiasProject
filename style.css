@@ -39,6 +39,9 @@ li {
 }
 
 
+foot {
+   text-align: center;
+}
 
 .weather-app-wrapper {
   max-width: 600px;
