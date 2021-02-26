@@ -51,9 +51,9 @@ foot {
 
 .weather-app {
   padding: 20px;
-  border: 2px solid #9ceeda;
+  border: 1px solid #fff;
   border-radius: 20px;
-  background-color: #D4D4D4;
+  background-color: #94bob7;
 }
 
 .overview {
