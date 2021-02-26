@@ -16,7 +16,10 @@ h1 {
   font-weight: bold;
   font-family: Chelsea Market;
 }
-
+.button {
+  font-family: Chelsea Market;
+  background: #aa6daa;
+}
 ul {
   margin: 0;
   padding: 0;
