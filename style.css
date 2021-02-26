@@ -19,7 +19,7 @@ h1 {
 .button {
   font-family: Chelsea Market;
   background: #aa6daa;
-  color: #9ceeda;
+  color: #fff;
 }
 ul {
   margin: 0;
@@ -27,6 +27,7 @@ ul {
 }
 
 li {
+  text-align: center;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -37,9 +38,7 @@ li {
   line-height: 19px;
 }
 
-li:first-letter {
-  text-transform: capitalize;
-}
+
 
 .weather-app-wrapper {
   max-width: 600px;
@@ -63,7 +62,7 @@ li:first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: black;
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
@@ -76,7 +75,7 @@ li:first-letter {
 }
 
 .weather-temperature .active {
-  color: rgb(33, 33, 33);
+  color: black;
   cursor: default;
 }
 
@@ -89,7 +88,7 @@ li:first-letter {
 }
 
 .weather-forecast h3 {
-  color: rgb(186, 186, 186);
+  color: black;
   font-size: 14px;
   font-weight: 400;
   text-align: center;
@@ -107,8 +106,8 @@ li:first-letter {
 
 .weather-forecast-temperature {
   text-align: center;
-  color: rgb(135, 135, 135);
-  font-size: 13px;
+  color: black;
+  font-size: 15px;
   font-weight: 400;
   height: auto;
   line-height: 15px;
