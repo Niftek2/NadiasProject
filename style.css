@@ -45,7 +45,8 @@ foot {
 
 .weather-app-wrapper {
   max-width: 800px;
-  margin: 30px auto;
+  max-height: 100px;
+  margin: 50px auto;
 }
 
 .weather-app {
